@@ -2,6 +2,9 @@ Mephisto
 ========
 A small Indie game heavily inspired by games like Diablo, Skyrim and other RPG's. 
 At the moment, only I am working on this project, and only in my spare time, so don't expect miracles any time soon! Feel free to give it a try and let me know what you think!
+Testing the game
+================
+To test the game simply click the zip button next to the "https://github.com/Paronamixxe/Mephisto.git" address bar. Then run the Application.exe and you're good to go!
 Contributing
 ============
 If you wish to submit a pull request to fix bugs feel free to do so. If you would like to add features or change existing behaviour or balance, please discuss it with me before submiting the pull request.
