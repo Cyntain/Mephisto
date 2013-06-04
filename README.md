@@ -1,12 +1,11 @@
 Mephisto
 ========
 A small Indie game heavily inspired by games like Diablo, Skyrim and other RPG's. 
-At the moment, only I am working on this project, and only in my spare time, so don't expect miracles any time soon!
+At the moment, only I am working on this project, and only in my spare time, so don't expect miracles any time soon! Feel free to give it a try and let me know what you think!
 Contributing
 ============
 If you wish to submit a pull request to fix bugs feel free to do so. If you would like to add features or change existing behaviour or balance, please discuss it with me before submiting the pull request.
 If you wish to submit media (models, textures ect...) then feel free to do so, although I would prefer if you contacted me first.
-
 How to Contribute:
 ------------------
 - 1|| If you haven't already, create a Github account.
