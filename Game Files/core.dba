@@ -1,0 +1,37 @@
+Rem ***** Included Source File *****
+Rem
+Rem File for the core do loop
+Rem
+Rem All logic passes through here to main do loop
+Rem Created: Tuesday, June 04, 2013
+
+
+
+
+//Core loop
+_CORE_LOOP:
+    //Main select
+        SELECT core:
+        
+        
+        
+        
+            case 0:
+                
+                gosub _SETTINGS_SYSTEM_SETUP
+                core = 1
+                
+            endcase
+            
+            
+            
+            
+            case 1:
+            
+            endcase
+            
+            
+            
+            
+        ENDSELECT
+return

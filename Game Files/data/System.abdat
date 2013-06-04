@@ -1,0 +1,13 @@
+[Main]
+Version=1
+[Graphics]
+WW=1920
+WH=1080
+Depth=32
+Textures=High
+Effects=High
+Fullscreen=1
+Refresh=60
+[Audio]
+SV=100
+EFV=100

@@ -1,0 +1,21 @@
+Rem Project: Mephisto
+Rem Created: Monday, June 03, 2013
+Rem ***** Main Source File *****
+
+
+
+  
+//Initial values
+    core = 0   
+    
+    
+    
+    
+//Do loop
+    do
+    
+        //Core loop
+            gosub _CORE_LOOP
+    
+        sync
+    LOOP

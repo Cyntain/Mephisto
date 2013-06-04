@@ -1,0 +1,28 @@
+Rem ***** Included Source File *****
+Rem
+Rem File for all settings logic
+Rem
+Rem For setting different values, saving and changing
+Rem Created: Tuesday, June 04, 2013
+
+
+
+
+//System startup
+_SETTINGS_SYSTEM_SETUP:
+    gosub _LOAD_SYSTEM_SETTINGS_FILE
+                
+    cls
+    set display mode SystemSettings.WWidth , SystemSettings.WHeight , SystemSettings.Depth
+    maximize window
+                
+    if SystemSettings.Fullscreen = 1
+        set window off
+    else
+        set window on
+    ENDIF
+                
+    sync on
+    sync rate SystemSettings.Refresh
+    kd setanisotropy 1
+return
